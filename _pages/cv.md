@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-This is my [CV](CV_Sittinon%20Feb26.pdf)
+This is my [CV](CV_Sittinon% Feb26.pdf)
