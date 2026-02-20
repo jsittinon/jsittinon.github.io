@@ -1,7 +1,7 @@
 ---
-layout: about
-title: "About me"
-permalink: /
+layout: archive
+title: "Posts by Collection"
+permalink: /about
 author_profile: true
 ---
 
