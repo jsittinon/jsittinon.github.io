@@ -7,7 +7,7 @@ date: 2023-06-01
 venue: 'Annals of Pure and Applied Logic'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0168007223000143'
 ---
-Gitik M., Jirattikansakul S. Blowing up the power of a singular cardinal of uncountable cofinality with collapses,
+Gitik M., Jirattikansakul S., Blowing up the power of a singular cardinal of uncountable cofinality with collapses,
 Annals of Pure and Applied Logic 174 (2023), Paper No. 103257,
 26 pp.
 https://doi.org/10.1016/j.apal.2023.103257
