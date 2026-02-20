@@ -41,3 +41,14 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.page__footer {
+  background-color: #ffffff !important; /* Changes background to white */
+  border-top: 1px solid #f2f2f2;      /* Adds a subtle line so it's not invisible */
+  color: #000000;                     /* Makes the text black so it stays readable */
+}
+
+/* This targets the links in the footer so they don't stay white */
+.page__footer a {
+  color: #000000 !important;
+}
