@@ -7,4 +7,4 @@ date: 2023-10-01
 venue: ' Acta Mathematica Hungarica '
 paperurl: 'https://link.springer.com/article/10.1007/s10474-023-01377-9'
 ---
-Benhamou, T., Jirattikansakul, S. A small ultrafilter number at every singular cardinal. Acta Math. Hungar. 171 (2023), 12–38 . https://doi.org/10.1007/s10474-023-01377-9
+Benhamou, T., Jirattikansakul, S., A small ultrafilter number at every singular cardinal. Acta Math. Hungar. 171 (2023), 12–38 . https://doi.org/10.1007/s10474-023-01377-9
