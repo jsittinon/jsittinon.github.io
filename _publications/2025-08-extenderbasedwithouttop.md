@@ -1,5 +1,5 @@
 ---
-title: "Blowing up the power of a singular cardinal of uncountable cofinality with collapses"
+title: "Extender-based Magidor-Radin forcings without top extenders"
 collection: publications
 category: manuscripts
 permalink: 'https://www.sciencedirect.com/science/article/pii/S0168007225000338'
