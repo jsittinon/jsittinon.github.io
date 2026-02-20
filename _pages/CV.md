@@ -1,9 +1,11 @@
 ---
-permalink: /CV/
+layout: archive
 title: "CV"
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /md/
+redirect_from:
+  - /resume
 ---
 
+{% include base_path %}
 Here is my [CV](CV_SittinonFeb26.pdf)
