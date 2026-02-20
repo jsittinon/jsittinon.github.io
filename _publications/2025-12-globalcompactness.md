@@ -3,7 +3,7 @@ title: "A model for global compactness"
 collection: publications
 category: manuscripts
 permalink: 'https://blog.assafrinot.com/?p=5073'
-date: 2023-06-01
+date: 2025-12-01
 venue: 'Israel Journal of Mathematics'
 paperurl: 'https://blog.assafrinot.com/?p=5073'
 ---
