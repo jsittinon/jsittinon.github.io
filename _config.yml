@@ -23,7 +23,7 @@ repository               : "https://jsittinon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./_pages/profile.jpg"
+  avatar           : "_pages/profile.jpg"
   name             : "Hi, I'm New!"
   pronouns         : # example: "she/her"  
   bio              : "A lecturer in the Department of Mathematics and Computer Sciences"
