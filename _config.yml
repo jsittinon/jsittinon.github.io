@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Sittinon Jirattikansakul"
 title_separator          : "-"
 name                     : &name "Sittinon Jirattikansakul"
-description              : &description "I am Sittinon Jirattikansakul (aka New). I am currently a lecturer at the Department of Mathematics and Computer Sciences, Chulalongkorn University, Bangkok, Thailand. My research focuses on combinatorial set theory, forcings, and large cardinals."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "I am Sittinon Jirattikansakul (aka New). I am currently a lecturer in the Department of Mathematics and Computer Sciences, Chulalongkorn University, Bangkok, Thailand. My research focuses on combinatorial set theory, forcings, and large cardinals."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://jsittinon.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Hi, I'm New!"
   pronouns         : # example: "she/her"  
-  bio              : "A lecturer at the Department of Mathematics and Computer Sciences"
+  bio              : "A lecturer in the Department of Mathematics and Computer Sciences"
   location         : "Bangkok, Thailand"
   employer         : "Chulalongkorn University"
   uri              : "https://jsittinon.github.io"
