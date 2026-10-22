@@ -8,5 +8,4 @@ venue: 'Israel Journal of Mathematics'
 paperurl: 'https://blog.assafrinot.com/?p=5073'
 ---
 Jirattikansakul S., Oren I., Rinot A., A model for global compactness, Accepted in Israel Journal of Mathematics, To appear<br>
-
 [Slides for the 26th Midrasha Mathematicae: Singular Cardinals Combinatorics](files/global_compactness_midrasha2026_slides.pdf)
